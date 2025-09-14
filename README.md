@@ -84,11 +84,11 @@ Below are two visual comparisons between the baseline DnCNN and the modified arc
 ![Example comparison 1](images/comparison_1.png)
 
 **Example 2:**  
-![Example comparison 2](images/comparison_4.png)
+![Example comparison 4](images/comparison_4.png)
 
 **Example 3:**  
 ![Example comparison 2](images/comparison_6.png)
 
 ## License
 This project is based on [SaoYan/DnCNN-PyTorch](https://github.com/SaoYan/DnCNN-PyTorch), which is licensed under the **GNU General Public License v3.0**.  
-All modifications (2025) are also distributed under the same license. See [LICENSE](./LICENSE) for details.
+All modifications (2025) are also distributed under the same license. See [LICENSE](./LICENSE.txt) for details.

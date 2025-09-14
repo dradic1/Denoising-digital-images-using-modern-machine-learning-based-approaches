@@ -73,7 +73,7 @@ Below is the architecture of the modified DnCNN with residual blocks:
 
 ## Qualitative Results
 
-Below are two visual comparisons between the baseline DnCNN and the modified architecture. Each image shows four examples placed side by side horizontally:
+Below are examples of visual comparisons between the baseline DnCNN and the modified architecture. Each image shows four examples placed side by side horizontally:
 
 - **First:** Original image  
 - **Second:** Degraded image with Gaussian noise  

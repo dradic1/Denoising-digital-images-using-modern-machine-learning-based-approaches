@@ -1,0 +1,5 @@
+torch<0.4
+torchvision
+opencv-python
+h5py
+tensorboardX

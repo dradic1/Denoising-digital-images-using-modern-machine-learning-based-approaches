@@ -84,7 +84,7 @@ Below are two visual comparisons between the baseline DnCNN and the modified arc
 ![Example comparison 1](images/comparison_1.png)
 
 **Example 2:**  
-![Example comparison 4](images/comparison_4.png)
+![Example comparison 4](images/comparison_4.jpg)
 
 **Example 3:**  
 ![Example comparison 2](images/comparison_6.png)

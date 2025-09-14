@@ -13,7 +13,7 @@ Evaluation was performed both quantitatively using PSNR and SSIM metrics, and qu
 
 Below is the architecture of the modified DnCNN with residual blocks:
 
-![Modified DnCNN Architecture](images/architecture.png)
+![Modified DnCNN Architecture](images/architecture.jpg)
 
 ---
 
